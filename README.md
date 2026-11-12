@@ -1,4 +1,5 @@
 [![OpenCloud Desktop CI](https://github.com/opencloud-eu/desktop/actions/workflows/main.yml/badge.svg)](https://github.com/opencloud-eu/desktop/actions/workflows/main.yml)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjnweiger%2Fopencloud-desktop.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjnweiger%2Fopencloud-desktop?ref=badge_shield)
 # `OpenCloud Desktop`
 
 ## Introduction
@@ -47,3 +48,6 @@ patches from a variety of authors](https://github.com/opencloud-eu/desktop/graph
     WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
     or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License
     for more details.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjnweiger%2Fopencloud-desktop.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjnweiger%2Fopencloud-desktop?ref=badge_large)
